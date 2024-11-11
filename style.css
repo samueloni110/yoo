@@ -1,0 +1,60 @@
+body{
+    justify-items : center;
+}
+.fa-github{
+    font-size: 3em;
+}
+
+#first{
+    border: 1px solid #9acaf7a1;
+    padding: 25px;
+    border-radius: 10px;
+}
+#first span{
+    float: right;
+    font-size: 0.8em;
+    color: blue;
+}
+input{
+    width: 240px;
+    border-radius: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    background-color: #00000034;
+}
+.signIn{
+    width: 250px;
+    border: none;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #0bb954;
+    color: white;
+}
+.signIn:hover{
+    background-color: #078a3d;
+}
+#second{
+    margin-top: 20px;
+    border: 1px solid #9acaf7a1;
+    padding: 5px 40px;
+    border-radius: 10px;
+}
+#second p{
+    text-align: center;
+    color: #0000ffa8;
+}
+#second p span{
+    color: black;
+}
+#footer{ 
+    width: 60%;
+    margin-top: 40px;
+}
+#footer li{
+    list-style: none;
+    float: left;
+    margin: 5px;
+    font-size: 0.9em;
+    color: #0000008e;
+}
